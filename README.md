@@ -10,4 +10,4 @@ youll need some libraries which are mentioned in requirements.txt
 *Atleast 5 overs has to be bowled
 *Data for newer team is less which makes it difficult to train for new teams so they are excluded 
 
-### The best r2_score and mean_absolute_error was registered 0.964 and 2.31 respectively
+### The best r2_score and mean_absolute_error  registered in hyperoarameter tuning was 0.964 and 2.31 respectively
