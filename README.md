@@ -11,3 +11,5 @@ youll need some libraries which are mentioned in requirements.txt
 *Data for newer team is less which makes it difficult to train for new teams so they are excluded 
 
 ### The best r2_score and mean_absolute_error  registered in hyperparameter tuning was 0.964 and 2.31 respectively
+
+https://huggingface.co/spaces/vedet9/ipl
