@@ -13,3 +13,5 @@ youll need some libraries which are mentioned in requirements.txt
 ### The best r2_score and mean_absolute_error  registered in hyperparameter tuning was 0.964 and 2.31 respectively
 
 https://huggingface.co/spaces/vedet9/ipl
+
+Made by Vedant Singh and Yash Agarwal collaboratel.
